@@ -7,6 +7,13 @@
 #  use git commands when you wants to upload/push files on github.
 
 1. git status
-2. git add
+2. git add fileName
 3. git commit -m "changed in readme file."
-4. git push origin 
+4. git push origin main
+
+
+#hahahaahhaah
+
+heheheeheheheh
+
+123456789
