@@ -12,8 +12,3 @@
 4. git push origin main
 
 
-#hahahaahhaah
-
-heheheeheheheh
-
-123456789
