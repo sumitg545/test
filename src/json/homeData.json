@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "song": "https://www.youtube.com/embed/07dfqQ0cvl8",
+    "videoTitle": "Hai Apna Dil To Awara",
+    "songTitle": "Parveen Hai Apna Dil To Awara | Dev Anand | Waheeda Rehman | Hemant Kumar | Solva Saal | Ishtar Music",
+    "songDetails": "Ishtar Music",
+    "subscriber": "37.7M subscribers",
+    "btn_text_subscribe": "Subscribe",
+    "views": "4.8M views",
+    "years": "6 years ago",
+    "like": "116k",
+    "dislike": "Dislike",
+    "share": "Share",
+    "posterImg": "https://i.ytimg.com/vi/cg6EFvPcbak/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSwAHz1yPGJ8Dp6kQG3enFrRv1yg",
+
+    "para_desc": [
+      {
+        "para_text": "10,897,724 views Jul 30, 2019 Hai Apna Dil To Awara | Dev Anand | Waheeda Rehman | Hemant Kumar | Solva Saal",
+        "para_list": [
+          {
+            "para_list_song": "Song : Hai Apna Dil To Awara",
+            "para_list_singer": "Singer : Hemant Kumar",
+            "para_list_feat": "Feat : Dev Anand & Waheeda Rehman",
+            "para_list_music": "Music: S.D. Burman",
+            "para_list_lyricist": "Lyricist : Majrooh Sultanpuri",
+            "para_list_movie" : "Movie : Solva Saal "
+           }
+        ]
+      }
+    ],
+    "comments": "3,712 Comments"
+  }
+]
